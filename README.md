@@ -15,4 +15,4 @@ The purpose of this repository is to demonstrate the basic use of Git and GitHub
 
 ## Author
 
-[Your Name]
+kdotvalentino
