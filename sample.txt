@@ -1,3 +1,5 @@
 This is a sample file for my Intro-to-GitHub repository.
 
 I created this file to demonstrate uploading multiple files to GitHub.
+
+This file was updated locally using Git.
