@@ -1,0 +1,22 @@
+Basic Git Commands
+
+git init
+Creates a new Git repository.
+
+git clone
+Copies a remote repository to a local computer.
+
+git status
+Shows the current state of the repository.
+
+git add
+Stages changes for a commit.
+
+git commit
+Creates a snapshot of staged changes.
+
+git push
+Uploads local commits to a remote repository.
+
+git pull
+Downloads and integrates changes from a remote repository.
